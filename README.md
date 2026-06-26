@@ -255,3 +255,7 @@ Error kinds:
 ## Optional Interfaces
 
 The package defines optional interfaces for bulk shipment creation, account balance, payments, locations, and returns. Provider implementations can opt into any of these without changing the core `CourierClient` contract.
+
+## License
+
+This project is licensed under the GNU General Public License v3.0. See [LICENSE](LICENSE).
