@@ -258,4 +258,4 @@ The package defines optional interfaces for bulk shipment creation, account bala
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0. See [LICENSE](LICENSE).
+This project is licensed under the GNU General Public License v3.0. See [LICENSE.md](LICENSE.md).
